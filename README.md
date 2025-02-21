@@ -30,7 +30,7 @@
 **Tech Stack:** React.js, Redux, Axios, TMDB API  
 A modern movie discovery platform that showcases descriptions of movies, TV series, actors, and TV personalities.
 - 🔗 [GitHub Repository](https://github.com/harshraj2121/FindYourFilm)
-- 🌐 [Live Demo](#) *(Coming soon!)*
+- 🌐 [Live Demo](https://starplayz-harshraj2121s-projects.vercel.app/)
 
 
 ## 🌐 Connect with Me
