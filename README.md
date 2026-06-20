@@ -27,14 +27,14 @@ class HarshRaj:
     def __init__(self):
         self.name        = "Harsh Raj"
         self.location    = "New Delhi, India 🇮🇳"
-        self.education   = "B.Tech CSE @ MERI College of Engineering (2023–2027)"
-        self.roles       = ["Full-Stack Developer", "ML Engineer", "Team Lead"]
+        self.education   = "B.Tech CSE @ MERI College of Engineering and Technology (2023–2027)"
+        self.roles       = ["ML Engineer", "Full-Stack Developer", "Team Lead"]
         self.achievements = ["🥇 Hackathon Winner (2nd)", "🏅 Hackathon Finalist (Top 5)"]
 
     def current_focus(self):
         return [
-            "Building scalable MERN stack applications 🚀",
             "Exploring ML/AI for real-world solutions 🤖",
+            "Building scalable MERN stack applications 🚀",
             "Winning more hackathons 🏆"
         ]
 
@@ -66,7 +66,7 @@ me.say_hi()
 
 <div align="center">
 
-### 🎓 Internship Portal — *Smart India Hackathon Winner*
+### 🎓 Internship Portal — *CodeManthan Hackathon Winner*
 > A student-centered digital platform bridging the gap between **Students ↔ Industry ↔ College**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
