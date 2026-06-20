@@ -178,9 +178,6 @@ me.say_hi()
 
 <div align="center">
 
-### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/harshraj2121/count.svg)
-
 ### ⚡ *"Code is like humor. When you have to explain it, it's bad."*
 
 <!-- Footer Wave -->
