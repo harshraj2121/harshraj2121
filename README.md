@@ -27,6 +27,7 @@ class HarshRaj:
     def __init__(self):
         self.name        = "Harsh Raj"
         self.location    = "New Delhi, India 🇮🇳"
+        self.experience  = "AI/ML Intern @iByte | On-site | Noida(UP)"
         self.education   = "B.Tech CSE @ MERI College of Engineering and Technology (2023–2027)"
         self.roles       = ["ML Engineer", "Full-Stack Developer", "Team Lead"]
         self.achievements = ["🥇 Hackathon Winner (2nd)", "🏅 Hackathon Finalist (Top 5)"]
