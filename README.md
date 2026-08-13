@@ -156,7 +156,7 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj2121&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=harshraj2121&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=harshraj2121&theme=tokyonight&hide_border=true&background=0D1117)" alt="GitHub Streak"/>
+
 
 </div>
 
